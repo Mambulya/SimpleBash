@@ -1,0 +1,36 @@
+TEST 3
+
+
+
+*
+I love Python
+        I study C
+
+
+
+        *
+
+
+        *
+
+I attend the School 21
+    Unreadable symbols:
+ is 14 e		
+ is 15 f		
+ is 16 10		
+ is 17 11		
+ is 18 12		
+    ...	
+ is 26 1a		
+ is 27 1b		
+ is 28 1c		
+ is 29 1d		
+ is 30 1e		
+ is 31 1f		
+  is 32 20		
+! is 33 21		
+" is 34 22		
+# is 35 23		
+$ is 36 24		
+    ...
+ is 127 7f		
